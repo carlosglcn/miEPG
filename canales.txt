@@ -1,6 +1,7 @@
 La 1 HD,La 1 HD
 La 1 HD,La 1 UHD
 La 1,La 1
+La 2,La 2 HD
 La 2,La 2
 Antena 3 HD,Antena 3
 Cuatro HD,Cuatro HD
@@ -12,7 +13,7 @@ La Sexta HD,LA SEXTA
 Movistar Plus+ HD,Movistar Plus+ HD
 Movistar Plus+,Movistar Plus+
 TVG,TVG HD Pontevedra
-TVG2 HD,tvg2 HD
+TVG2,tvg2 HD
 BAJO DEMANDA,BAJO DEMANDA
 MULTIDEPORTE,MULTIDEPORTE
 M+ Estrenos HD,M+ Estrenos HD
@@ -27,8 +28,10 @@ M+ Documentales HD,M+ Documentales
 M+ Musicales,M+Musicales
 La Resistencia 24H,La Resistencia 24H
 M+ Clásicos HD,M+ CLASICOS HD
+M+ Clásicos HD,M+ CLÁSICOS HD
 M+ Clásicos HD,M+ CLASICOS
 M+ Acción HD,M+ ACCION HD
+M+ Acción HD,M+ ACCIÓN HD
 M+ Acción HD,M+ ACCION
 M+ Comedia HD,M+Comedia HD
 M+ Comedia HD,M+ COMEDIA
@@ -78,7 +81,7 @@ Boing,Boing
 Clan,Clan HD
 Clan,CLAN TVE
 MTV España,MTV España
-MTV España,MTV ESPANA
+MTV España,MTV ESPAÑA
 MTV 00s,MTV 00s
 Mezzo,Mezzo
 Mezzo Live HD,Mezzo LIVE HD
@@ -175,7 +178,7 @@ DAZN 2 HD,DAZN 2 HD
 DAZN 2 HD,DAZN 2
 Eurosport 1 HD,Eurosport1HD
 Eurosport 2,EUROSPORT2
-Eurosport 2,EUROSPORT2 2
+Eurosport 2,EUROSPORT 2
 GOL PLAY,GOL PLAY HD
 Teledeporte,tdp HD
 Teledeporte,TELEDEPORTE
