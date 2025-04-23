@@ -238,7 +238,7 @@ Be Mad,BeMad tv HD
 A3Serires,A3Series
 24 Horas,24h HD
 TVG Europa HD,TVGA EUROPA HD
-Squirrel TV,Squirrel
+Squirrel TV,Squirrel,https://upload.wikimedia.org/wikipedia/commons/8/8a/Squirrel_TV_logo.svg
 GOL PLAY HD,GOL PLAY HD,https://github.com/davidmuma/picons_dobleM/blob/master/icon/GOL%20PLAY.png
 GOL PLAY,GOL PLAY,https://github.com/davidmuma/picons_dobleM/blob/master/icon/GOL%20PLAY.png
 Daystar Espanol,Daystar Espanol
