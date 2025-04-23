@@ -46,7 +46,7 @@ TCM HD,TCM
 BBC Drama,BBC Drama
 BBC Top Gear,BBC Top Gear
 Paramount Network,Paramount Network
-Paramount Network,PARAMOUNT
+Paramount Network,Paramount,
 Be Mad,Be Mad tv HD
 Be Mad,BE MAD
 STAR Channel HD,STAR Channel
@@ -58,9 +58,9 @@ Calle 13 HD,Calle 13
 Cosmo HD,Cosmo HD
 Cosmo HD,Cosmo
 SyFy HD,SyFy
-Energy,Energy
-Factoría de Ficción,FDF
-Neox,neox
+Energy,Energy,https://github.com/davidmuma/picons_dobleM/blob/master/icon/Energy.png
+Factoría de Ficción,FDF,https://github.com/davidmuma/picons_dobleM/blob/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png
+Neox,neox,https://github.com/davidmuma/picons_dobleM/blob/master/icon/Neox.png
 Caza y Pesca HD,CazayPesca HD
 Caza y Pesca HD,CAZA Y PESCA
 Iberalia TV,Iberalia TV
@@ -71,7 +71,7 @@ BBC History,BBC History
 Discovery,Discovery
 BBC Food,BBC Food
 Divinity,Divinity
-Nova,nova
+Nova,nova,https://github.com/davidmuma/picons_dobleM/blob/master/icon/Nova.png
 Baby TV,BabyTV
 Disney Junior,Disney Jr
 Nick JR,Nick JR
@@ -239,6 +239,6 @@ A3Serires,A3Series
 24 Horas,24h HD
 TVG Europa HD,TVGA EUROPA HD
 Squirrel TV,Squirrel
-GOL PLAY HD,GOL PLAY HD
-GOL PLAY,GOL PLAY
+GOL PLAY HD,GOL PLAY HD,https://github.com/davidmuma/picons_dobleM/blob/master/icon/GOL%20PLAY.png
+GOL PLAY,GOL PLAY,https://github.com/davidmuma/picons_dobleM/blob/master/icon/GOL%20PLAY.png
 Daystar Espanol,Daystar Espanol
