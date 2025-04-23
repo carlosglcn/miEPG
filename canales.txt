@@ -130,7 +130,7 @@ Atreseries,A3Series
 Real Madrid TV,Realmadrid TV HD
 Garage TV,Garage TV
 UBEAT,UBEAT
-DMAX,DMAX
+DMAX,DMAX,https://images.seeklogo.com/logo-png/51/1/dmax-spain-logo-png_seeklogo-519387.png
 DKISS,DKISS
 Mega,Mega
 Ten,Ten
