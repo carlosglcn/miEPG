@@ -6,10 +6,10 @@ La 2,La 2
 Antena 3 HD,Antena 3
 Cuatro HD,Cuatro HD
 Cuatro HD,CUATRO
-Telecinco HD,Telecinco HD
-Telecinco HD,TELECINCO
-La Sexta HD,laSexta
-La Sexta HD,LA SEXTA
+Telecinco HD,Telecinco HD,https://github.com/davidmuma/picons_dobleM/blob/master/icon/Telecinco%20HD.png
+Telecinco HD,Telecinco,https://github.com/davidmuma/picons_dobleM/blob/master/icon/Telecinco%20HD.png
+La Sexta HD,laSexta,https://github.com/davidmuma/picons_dobleM/blob/master/icon/La%20Sexta%20HD.png
+La Sexta HD,LA Sexta,https://github.com/davidmuma/picons_dobleM/blob/master/icon/La%20Sexta%20HD.png
 Movistar Plus+ HD,Movistar Plus+ HD
 Movistar Plus+,Movistar Plus+
 TVG,TVG HD Pontevedra
