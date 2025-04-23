@@ -1,5 +1,5 @@
 La 1 HD,La 1 HD
-La 1 HD,La 1 UHD
+La 1 HD,La 1 UHD,https://raw.githubusercontent.com/jungla-team/Picon-TDT-Ibericos/refs/heads/main/Generalistas/la1uhd.png
 La 1,La 1
 La 2,La 2 HD
 La 2,La 2
