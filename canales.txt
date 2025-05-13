@@ -23,6 +23,7 @@ M+ Hits HD,M+ Hits
 M+ Originales HD,M+ Originales HD
 M+ Originales HD,M+ Originales
 M+ Los 90,M+ Los 90
+M+ TOM CRUISE,M+ TOM CRUISE
 M+ Documentales HD,M+Documentales HD
 M+ Documentales HD,M+ Documentales
 M+ Musicales,M+Musicales
