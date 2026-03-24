@@ -27,6 +27,7 @@ M+ Originales HD,M+ Originales HD
 M+ Originales HD,M+ Originales
 M+ ROMANCE,M+ ROMANCE
 M+ Los 90,M+ Los 90
+M+ Los 2000,M+ Los 2000
 M+ LOS GOYA,M+ LOS GOYA
 M+ Cine bélico,M+Cine Bélico
 M+ TOM CRUISE,M+ TOM CRUISE
@@ -211,6 +212,8 @@ DAZN 1 HD,DAZN 1 HD
 DAZN 1 HD,DAZN 1
 DAZN 2 HD,DAZN 2 HD
 DAZN 2 HD,DAZN 2
+DAZN MOTOGP,DAZN MOTOGP
+DAZN Moto GP,DAZN Moto GP
 Eurosport 1 HD,Eurosport1HD
 Eurosport 2,EUROSPORT2
 Eurosport 2,EUROSPORT 2
