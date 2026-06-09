@@ -52,10 +52,10 @@ M+ Indie HD,M+ Indie
 M+ Cine Español,M+Cine Español
 M+ PopUp,M+ PopUp
 M+ PopUp 2,M+ PopUp 2
-M+VACACIONES,M+VACACIONES
+M+ VACACIONES,M+VACACIONES
 M+ TERROR,M+ TERROR
 M+ OSCARS,M+ OSCARS
-M+ ORGULLO,M+ORGULLO
+M+ ORGULLO,M+ ORGULLO
 M+Nicolas Cage,M+Nicolas Cage
 TCM HD,TCM
 BBC DRAMA,BBC DRAMA
@@ -173,7 +173,7 @@ M+ Vamos HD,M+ VamosHD
 M+ Vamos HD,M+ Vamos
 M+ Vamos 2 HD,M+ VAMOS 2 HD
 M+ Vamos 2,M+ VAMOS 2
-M+ Vamos 3 HD,M+ VAMOS 3 HD
+M+ Vamos 3,M+ VAMOS 3 HD
 M+ LaLiga TV HD,M+ LaLiga TV HD
 M+ LaLiga HD,M+ LALIGA HD
 M+ LaLiga,M+ LALIGA
@@ -216,7 +216,7 @@ M+ Deportes 7,M+Deportes7
 M+ Deportes 8,M+Deportes8
 M+ Ellas Vamos HD,M+Ellas V HD
 M+ Golf HD,M+ Golf HD
-M+ Golf 2 HD,M+Golf 2
+M+ Golf 2 HD,M+ GOLF 2
 DAZN F1 HD,DAZN F1 HD
 DAZN F1 HD,DAZN F1
 DAZN 1 HD,DAZN 1 HD
@@ -331,7 +331,8 @@ DAZN Baloncesto 2,DAZNBaloncesto2
 DAZN Baloncesto 3,DAZNBaloncesto3
 ZDF HD,ZDF HD
 DAZN Mundial HD,DAZN MundialHD
-DAZN Mundial2 HD,DAZN Mundial2HD
-M+ FANZONE HD,M+FANZONE HD
+DAZN Mundial 2 HD,DAZN Mundial2HD
+M+ FANZONE HD,M+ FANZONE HD
+M+ FANZONE,M+ FANZONE HD
 DAZN Mundial 3,DAZN Mundial 3
 DAZN Mundial 4,DAZN Mundial4
