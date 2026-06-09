@@ -52,7 +52,7 @@ M+ Indie HD,M+ Indie
 M+ Cine Español,M+Cine Español
 M+ PopUp,M+ PopUp
 M+ PopUp 2,M+ PopUp 2
-M+VACACIONES,M+VACACIONES
+M+ Vacaciones,M+VACACIONES
 M+ TERROR,M+ TERROR
 M+ OSCARS,M+ OSCARS
 M+ORGULLO,M+ ORGULLO
@@ -90,6 +90,7 @@ Nova,nova,https://raw.githubusercontent.com/jungla-team/Picon-TDT-Ibericos/refs/
 Baby TV,BabyTV
 Disney Junior,Disney Jr,https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Disney%20Junior.png
 Disney Channel,Disney Channel
+Disney Channel HD,Disney Channel
 Nick JR,Nick JR
 Nickelodeon HD,NICKELODEON,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color/picon/1_0_1_772E_416_1_C00000_0_0_0.png
 Dreamworks HD,DreamWorks
@@ -225,9 +226,9 @@ DAZN 1 HD,DAZN 1
 DAZN 2 HD,DAZN 2 HD
 DAZN 2 HD,DAZN 2
 DAZN MOTO GP,DAZN MOTO GP
-DAZN MOTOGP,DAZN MOTOGP
-DAZN MOTO GP,DAZN MOTO GP
-DAZNMOTOGP,DAZN MOTO GP
+DAZN MotoGP,DAZN MOTOGP
+DAZN MotoGP,DAZN MOTO GP
+DAZNMotoGP,DAZN MOTO GP
 Eurosport 1 HD,Eurosport1HD
 Eurosport 1 HD,Eurosport 1
 Eurosport 2,EUROSPORT2
@@ -331,18 +332,20 @@ Primera Federación,1ª FEDERACION HD
 DAZN Baloncesto,DAZNBaloncesto
 DAZN Baloncesto 2,DAZNBaloncesto2
 DAZN Baloncesto 3,DAZNBaloncesto3
-M+ Baloncesto HD,M+BaloncestoHD
-M+ BaloncestoHD,M+BaloncestoHD
-M+BaloncestoHD,M+BaloncestoHD
+M+ Baloncesto,M+BaloncestoHD
+M+ Baloncesto,M+BaloncestoHD
+M+ Baloncesto,M+BaloncestoHD
 M+ Baloncesto 2,M+Baloncesto2
-M+Baloncesto2,M+Baloncesto2
+M+ Baloncesto2,M+Baloncesto2
 M+ Baloncesto,M+Baloncesto
-M+Baloncesto,M+Baloncesto
+M+ Baloncesto,M+Baloncesto
 ZDF HD,ZDF HD
 DAZN Mundial HD,DAZN MundialHD
 DAZN Mundial 2 HD,DAZN Mundial2 HD
 DAZN Mundial 2,DAZN Mundial2 HD
+DAZN Mundial2,DAZN Mundial2 HD
 M+ FANZONE HD,M+ FANZONE HD
 M+FANZONE,M+ FANZONE HD
+M+ FANZONE,M+ FANZONE HD
 DAZN Mundial 3,DAZN Mundial 3
 DAZN Mundial 4,DAZN Mundial4
