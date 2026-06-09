@@ -11,7 +11,7 @@ Telecinco HD,Telecinco
 La Sexta HD,laSexta
 La Sexta HD,LA Sexta
 Movistar Plus+ HD,Movistar Plus+ HD
-Movistar Plus HD,Movistar Plus HD
+Movistar Plus+ HD,Movistar Plus HD
 Movistar Plus+ HD,Movistar Plus+
 TVG,TVG HD Pontevedra
 TVG,TVG UHD
@@ -52,10 +52,10 @@ M+ Indie HD,M+ Indie
 M+ Cine Español,M+Cine Español
 M+ PopUp,M+ PopUp
 M+ PopUp 2,M+ PopUp 2
-M+ VACACIONES,M+VACACIONES
+M+VACACIONES,M+VACACIONES
 M+ TERROR,M+ TERROR
 M+ OSCARS,M+ OSCARS
-M+ ORGULLO,M+ ORGULLO
+M+ ORGULLO,M+ORGULLO
 M+Nicolas Cage,M+Nicolas Cage
 TCM HD,TCM
 BBC DRAMA,BBC DRAMA
@@ -330,6 +330,8 @@ DAZN Baloncesto,DAZNBaloncesto
 DAZN Baloncesto 2,DAZNBaloncesto2
 DAZN Baloncesto 3,DAZNBaloncesto3
 ZDF HD,ZDF HD
-DAZN MundialHD,DAZN MundialHD
-DAZN Mundial2HD,DAZN Mundial2HD
-M+ FANZONE HD,M+ FANZONE HD
+DAZN Mundial HD,DAZN MundialHD
+DAZN Mundial2 HD,DAZN Mundial2HD
+M+ FANZONE HD,M+FANZONE HD
+DAZN Mundial 3,DAZN Mundial 3
+DAZN Mundial 4,DAZN Mundial4
