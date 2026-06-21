@@ -12,7 +12,9 @@ La Sexta HD,laSexta
 La Sexta HD,LA Sexta
 Movistar Plus+ HD,Movistar Plus+ HD
 Movistar Plus+ HD,Movistar Plus HD
+Movistar Plus HD,Movistar Plus HD
 Movistar Plus+ HD,Movistar Plus+
+Movistar Plus HD,Movistar Plus
 TVG,TVG HD Pontevedra
 TVG,TVG UHD
 TVG2,tvg2 HD
