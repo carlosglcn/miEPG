@@ -78,7 +78,7 @@ Comedy Central HD,Comedy Central
 Calle 13 HD,Calle 13
 Cosmo HD,Cosmo HD
 Cosmo HD,Cosmo
-SyFy HD,SyFy
+SciFi HD,SyFy
 Energy,Energy,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color/picon/1_0_1_749F_41C_1_C00000_0_0_0.png
 Factoría de Ficción,FDF,https://raw.githubusercontent.com/jungla-team/Picon-TDT-Ibericos/refs/heads/main/Generalistas/fdf.png
 Neox,neox,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color/picon/1_0_1_99_F_22D4_EEEE0000_0_0_0.png
@@ -357,3 +357,6 @@ M+FANZONE,M+ FANZONE HD
 M+ FANZONE,M+ FANZONE HD
 DAZN Mundial 3,DAZN Mundial 3
 DAZN Mundial 4,DAZN Mundial4
+M+ Terror,M+ TERROR
+M+ Romance,M+ ROMANCE
+Replay,REPLAY
