@@ -4,6 +4,7 @@ La 1 HD,La 1
 La 2,La 2 HD
 La 2,La 2
 Antena 3 HD,Antena 3
+Antena 3 HD,A3 UHD
 Cuatro HD,Cuatro HD
 Cuatro HD,CUATRO
 Telecinco HD,Telecinco HD
