@@ -336,6 +336,7 @@ Replay,REPLAY
 La 2,La 2 UHD,https://raw.githubusercontent.com/jungla-team/Picon-TDT-Ibericos/refs/heads/main/Generalistas/la2hd.png
 Telecinco HD,Telecinco UHD,https://raw.githubusercontent.com/jungla-team/Picon-TDT-Ibericos/refs/heads/main/Generalistas/telecinco.png
 Antena 3 HD,ANTENA 3
+Antena 3 HD,A3 UHD
 La 1 HD,LA 1
 La 2,LA 2
 La Sexta HD,LA SEXTA
@@ -353,3 +354,4 @@ LaLiga TV BAR 5,LALIGA TV BAR 5
 M+ Golf HD,M+ GOLF
 M+ Vamos 3,M+ VAMOS 3
 Iberalia TV,IBERALIA TV
+La Séptima,LA SÉPTIMA,https://pbs.twimg.com/profile_images/2074450480743297024/UTvLXCSQ_200x200.jpg
